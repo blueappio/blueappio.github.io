@@ -1,4 +1,4 @@
-# BluaApp Web Bluetooth
+# BlueApp Web Bluetooth
 
 ## Basic Overview
 Blueapp-wb is fast, easy to use and feature-rich Web Bluetooth library. It is based on Web Bluetooth spec, and enables developers to create node apps for discovering, connecting, and listening for advertisement of bluetooth devices using Blueapp platform.
