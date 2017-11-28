@@ -34,7 +34,7 @@ because it's already in package.json.
 
 In order to get our app working, we need to provide it with some information about gateway. In order to get some information first we need to open account on BlueApp.io webpage:
 
-<img src="https://github.com/rajicdalibor/webBluetoothTest/blob/master/images/mainpage.png" width="80%" alt="Main page"/>
+<img src="https://github.com/blueappio/blueappio.github.io/blob/master/images/mainpage.png" width="80%" alt="Main page"/>
 
 <!-- ![](https://github.com/rajicdalibor/webBluetoothTest/blob/master/images/mainpage.JPG | width=100 "Blueapp main page") -->
 
@@ -46,7 +46,7 @@ Now, with gateway available, we can test some of the applications listed in main
 For development and testing our new app on local machine, we need gateway's token, which tells application to which gateway it should connect for scanning for BLE devices.
 Selecting My Devices tab you can check all the gateways that are connected to particular organization. We can click on particular organization to open gateway's details. On gateway's details page we can find Client Token that we need for our app.
 
-<img src="https://github.com/rajicdalibor/webBluetoothTest/blob/master/images/gatewaydetails.png" width="80%" alt="Gateway details"/>
+<img src="https://github.com/blueappio/blueappio.github.io/blob/master/images/gatewaydetails.png" width="80%" alt="Gateway details"/>
 
 ## Starting the app
 
@@ -175,11 +175,11 @@ When we get our application ready we can add it on Blueapp portal in our organiz
 
 Let's open our organization in organizations tab. There we can see all the organization that we are subscribed to, and we can list organization's apps.
 
-<img src="https://github.com/rajicdalibor/webBluetoothTest/blob/master/images/organization.png" width="80%" alt="Organization"/>
+<img src="https://github.com/blueappio/blueappio.github.io/blob/master/images/organization.png" width="80%" alt="Organization"/>
 
 Before we can add app to our organization, we have to post our app on some domain service, and set application's url to applications page. (You can upload it on your github account)
 
-<img src="https://github.com/rajicdalibor/webBluetoothTest/blob/master/images/applicationsetup.png" width="80%" alt="Application setup"/>
+<img src="https://github.com/blueappio/blueappio.github.io/blob/master/images/applicationsetup.png" width="80%" alt="Application setup"/>
 
 It's also required to add some device filter (uuid or name).
 
