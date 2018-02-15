@@ -46,7 +46,7 @@ Now, with gateway available, we can test some of the applications listed in main
 For development and testing our new app on local machine, we need gateway's token, which tells application to which gateway it should connect for scanning for BLE devices.
 Selecting My Devices tab you can check all the gateways that are connected to particular organization. We can click on particular organization to open gateway's details. On gateway's details page we can find Client Token that we need for our app.
 
-<img src="https://github.com/blueappio/blueappio.github.io/blob/master/images/gatewaydetails.png" width="80%" alt="Gateway details"/>
+<img src="./images/gatewaydetails.png" width="80%" alt="Gateway details"/>
 
 ## Starting the app
 
