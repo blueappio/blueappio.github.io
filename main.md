@@ -6,13 +6,13 @@ Blueapp is smart bluetooth platform for managing bluetooh gateways and devices.
 
 Blueapp platform enables us to access bluetooth devices from remote distance using gateways over the internet connection. With that we are able to monitor, change and read some data from bluetooth devices. There are numerous of thing that we can do with bluetooth devices - monitor sensors, read data, give our device some command etc.
 
-For managing our gateways and devices we are using [Bluepp.io](blueapp.io) portal. [Here](https://github.com/blueappio/developer/blob/master/blueappAccount.md) you can find instructions about opening and setting up Blueapp account.
+For managing our gateways and devices we are using [Bluepp.io](blueapp.io) portal. [Here](./blueappAccount.md) you can find instructions about opening and setting up Blueapp account.
 
-After account setup we want to write Web Bluetooth based application, that we can add to our account on Blueapp.io portal. You can find instructions for writing node application on this [page](https://github.com/blueappio/developer/blob/master/wbApp.md).
+After account setup we want to write Web Bluetooth based application, that we can add to our account on Blueapp.io portal. You can find instructions for writing node application on this [page](./wbApp.md).
 
 Getting application up and running, we need to post it on some hosting service. For that you can use GitHub page service.
 
-Now that we have our account with gateway attached to it and nearby bluetooth device, and our Web Bluetooth based application working, we want to add it to our organization on Blueapp portal. Find instructions for that [here](https://github.com/blueappio/developer/blob/master/addingApp.md).
+Now that we have our account with gateway attached to it and nearby bluetooth device, and our Web Bluetooth based application working, we want to add it to our organization on Blueapp portal. Find instructions for that [here](./addingApp.md).
 
 ### More information
 

@@ -34,7 +34,7 @@ because it's already in package.json.
 
 In order to get our app working, we need to provide it with some information about gateway. In order to get some information first we need to open account on BlueApp.io webpage:
 
-<img src="https://github.com/blueappio/blueappio.github.io/blob/master/images/mainpage.png" width="80%" alt="Main page"/>
+<img src="./images/mainpage.png" width="80%" alt="Main page"/>
 
 <!-- ![](./images/mainpage.JPG | width=100 "Blueapp main page") -->
 
