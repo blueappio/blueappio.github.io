@@ -175,11 +175,11 @@ When we get our application ready we can add it on Blueapp portal in our organiz
 
 Let's open our organization in organizations tab. There we can see all the organization that we are subscribed to, and we can list organization's apps.
 
-<img src="https://github.com/blueappio/blueappio.github.io/blob/master/images/organization.png" width="80%" alt="Organization"/>
+<img src="./images/organization.png" width="80%" alt="Organization"/>
 
 Before we can add app to our organization, we have to post our app on some domain service, and set application's url to applications page. (You can upload it on your github account)
 
-<img src="https://github.com/blueappio/blueappio.github.io/blob/master/images/applicationsetup.png" width="80%" alt="Application setup"/>
+<img src="./images/applicationsetup.png" width="80%" alt="Application setup"/>
 
 It's also required to add some device filter (uuid or name).
 
