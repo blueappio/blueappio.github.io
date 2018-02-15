@@ -36,7 +36,7 @@ In order to get our app working, we need to provide it with some information abo
 
 <img src="https://github.com/blueappio/blueappio.github.io/blob/master/images/mainpage.png" width="80%" alt="Main page"/>
 
-<!-- ![](https://github.com/rajicdalibor/webBluetoothTest/blob/master/images/mainpage.JPG | width=100 "Blueapp main page") -->
+<!-- ![](./images/mainpage.JPG | width=100 "Blueapp main page") -->
 
 After getting new account, we are able to open just our new organization, but at this point we are unable to see any of the gateways assigned to that organization. For testing purposes we can switch to some existing organization with already attached gateway with nearby bluetooth devices.
 In order to join particular organization, we need owner's invitation. To get that please send email with invitation request to Blueapp team and you will get one in short term. From organizations where we are marked as admin, we can invite other users to join by sending them invitation.
